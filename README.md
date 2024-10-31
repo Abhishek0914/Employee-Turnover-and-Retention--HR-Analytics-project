@@ -24,6 +24,7 @@ To run the analyses:
 Clone the repository.
 Install the required packages (see requirements.txt).
 Run the Jupyter notebooks or scripts in the Analysis folder to replicate results.
+
 Conclusion
 This project provides actionable insights for HR professionals and organizations looking to improve employee retention through a deeper understanding of job satisfaction factors. By focusing on both financial and non-financial aspects, companies can better meet the needs of their workforce.
 
